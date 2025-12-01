@@ -173,14 +173,7 @@ real-world problems with technology.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=&theme=tokyonight" height="170"/>
-
-</div>
 
 ---
 
